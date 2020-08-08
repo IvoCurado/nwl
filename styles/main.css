@@ -35,8 +35,7 @@
            box-sizing: border-box;
        }
 
-       html,
-       body{
+       html,body{
            height: 100vh;
        }
 
@@ -47,10 +46,7 @@
            justify-content: center;
        }
 
-       body,
-       input,
-       button,
-       textarea {
+       body,input,button,textarea {
             /*font: 500 1.6rem Poppins;*/
             font-weight: 500;
             font-family: Poppins;
@@ -61,4 +57,16 @@
        #container {
            width: 90vw; /* divide o ecra em 100 mas usa so 90 */
            max-width: 700px; /* tamanho max 700 px mesmo que os 90 equivalem a mais */
+       }
+
+       @media (max-width: 699px){
+        :root{
+            font-size: 40%;
+        }
+       }
+
+       @media (min-width: 700){
+        :root{
+            font-size: 62.5%;/* relativo a 10 pixes cara rem*/
+        }
        }
