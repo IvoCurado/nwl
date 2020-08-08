@@ -13,8 +13,14 @@ Para rodar basta:
 -> Abrir o index.html que esta na pasta;
 
 ### Demo
-Página inicial num dispositivo mobile:
+<p>Página inicial num dispositivo mobile:</p>
 ![pagina-inicial-mobile](pagina-inicial-mobile.png)
+<p>Página inicial num computador:</p>
+![pagina-inicial-computador](pagina-inicial-computador.png)
+<p>Pagina onde se procura professores num dispositivo mobile:</p>
+![pagina-study-mobile](pagina-study-mobile.png)
+<p>Pagina onde se procura professores num computador:</p>
+![pagina-study-computador](pagina-study-computador.png)
 ### 🛠 Tecnologias
 
 Até ao momento, as ferramentas que foram usadas na construção do projeto foram:
