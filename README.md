@@ -13,13 +13,13 @@ Para rodar basta:
 -> Abrir o index.html que esta na pasta;
 
 ### Demo
-<p>Página inicial num dispositivo mobile:</p>
+Página inicial num dispositivo mobile
 ![pagina-inicial-mobile](pagina-inicial-mobile.png)
-<p>Página inicial num computador:</p>
+Página inicial num computador
 ![pagina-inicial-computador](pagina-inicial-computador.png)
-<p>Pagina onde se procura professores num dispositivo mobile:</p>
+Pagina onde se procura professores num dispositivo mobile
 ![pagina-study-mobile](pagina-study-mobile.png)
-<p>Pagina onde se procura professores num computador:</p>
+Pagina onde se procura professores num computador
 ![pagina-study-computador](pagina-study-computador.png)
 ### 🛠 Tecnologias
 
